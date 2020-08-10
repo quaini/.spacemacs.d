@@ -1,5 +1,7 @@
-# spacemacs-config
+# Introduction
 My spacemacs configuration
+
+# Installation
 
 # Bug Fixes
 8/8/2020
