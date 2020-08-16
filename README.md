@@ -20,12 +20,18 @@ Shortcut | Description
 ---|---
 `SPC w /` | Vertical Split Window
 `SPC w -` | Horizontal Split Window
+`SPC 0`   | Treemacs Window
 
 ### Insert Mode
 Shortcut | Description 
 ---|---
 `SPC w /` | Vertical Split Window
 `SPC w -` | Horizontal Split Window
+
+### List to organize later
+---|---
+`SPC '`   | Shell
+`SPC f t` | Treemacs
 
 ## Bug Fixes
 8/8/2020
