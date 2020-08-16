@@ -9,13 +9,19 @@ Note: A dotdirectory ```~/.spacemacs.d/``` can be used instead of a dotfile. If 
 
 ## Cheatsheet
 
-### General
+### Navigation
 Shortcut | Description 
 ---|---
 `SPC f e d` | Open Configuration
 `SPC f e R` | Reload Configuration
 
-### Window Management `SPC w`
+### Window Management
+Shortcut | Description 
+---|---
+`SPC w /` | Vertical Split Window
+`SPC w -` | Horizontal Split Window
+
+### Insert Mode
 Shortcut | Description 
 ---|---
 `SPC w /` | Vertical Split Window
