@@ -29,6 +29,7 @@ Shortcut | Description
 `SPC w -` | Horizontal Split Window
 
 ### List to organize later
+Shortcut | Description 
 ---|---
 `SPC '`   | Shell
 `SPC f t` | Treemacs
