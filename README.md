@@ -5,6 +5,8 @@
 
 ```git clone https://github.com/quaini/.spacemacs.d.git ~/.spacemacs.d```
 
+Recommended Font: [Source Code Pro](https://fonts.google.com/specimen/Source+Code+Pro)
+
 Note: A dotdirectory ```~/.spacemacs.d/``` can be used instead of a dotfile. If you want to use this option, move ```~/.spacemacs``` to ```~/.spacemacs.d/init.el```. [Source](https://github.com/syl20bnr/spacemacs/blob/develop/doc/DOCUMENTATION.org#dotfile-configuration)
 
 ## Cheatsheet
